@@ -1,2 +1,2 @@
-# Capacitaci-nJS
+# CapacitacionJS
 Capacitación básica, media, avanzada de JS
